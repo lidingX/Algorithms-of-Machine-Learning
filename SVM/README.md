@@ -1,4 +1,4 @@
-I fix some numerical problems of Sequential Minimal Optimization (SMO) based algorithm of Platt with Keerthi modifications:
+I fix some numerical problems of Sequential Minimal Optimization (SMO) based on algorithm of Platt with Keerthi modifications:
 Implements:
 1. Sequential Minimal Optimization: A Fast Algorithm for Training Support Vector Machines
     John C. Platt
