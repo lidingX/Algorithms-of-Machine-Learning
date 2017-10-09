@@ -1,6 +1,4 @@
-I fix some numerical problems of Sequential Minimal Optimization (SMO) based on:
-SMO2 algorithm of Platt with Keerthi modifications:
-ALL KERNEL EVALUATIONS ARE DONE IN THE BEGINING AND KEPT IN MEMORY
+I fix some numerical problems of Sequential Minimal Optimization (SMO) based algorithm of Platt with Keerthi modifications:
 Implements:
 1. Sequential Minimal Optimization: A Fast Algorithm for Training Support Vector Machines
     John C. Platt
